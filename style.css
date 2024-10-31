@@ -1,0 +1,15 @@
+*(
+    box-sizing
+)   
+   
+   
+   
+   form{
+    width: 600px;
+    margin: auto;
+    border: 1px solid black;
+}
+ input, select{
+    display: block;
+    width: 100%;
+}
